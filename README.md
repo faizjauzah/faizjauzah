@@ -80,7 +80,7 @@ My personal site, built with React, TypeScript and Vite, and deployed through Gi
 
 `React` `TypeScript` `Vite`
 
-[**▶ Website link**](https://faizjauzah.github.io/personal-portofolio/) · [**Code**](https://github.com/faizjauzah/personal-portofolio)
+[**▶ Website link**](https://faizjauzah.github.io/portfolio/) · [**Code**](https://github.com/faizjauzah/portfolio)
 
 
 ## 📫 Let's connect
