@@ -66,11 +66,11 @@ Labeling bounding boxes is expensive. I used **YOLOv12-Nano with Noisy Student T
 
 Ask a question about the FIA rulebooks and get an answer **with the exact source paragraphs it relied on**, so you can check it instead of trusting it.
 
-- Clause-based chunking over 6,000+ chunks from the FIA regulation PDFs (Sections A to F).
+- Fully local RAG system ingesting them into 3,058 embeddings spanning 737 clauses from the 2026 FIA regulation PDFs (Sections A to F).
 - FastAPI backend, ChromaDB vector store, fully containerized with Docker.
-- Runs on a hosted LLM or a local model, and includes an evaluation script.
+- Evaluated with RAGAS across 33 human-verified questions, measuring 0.88 faithfulness, 0.91 context recall, 0.87 context precision and 0.78 answer correctness.
 
-`Python` `FastAPI` `ChromaDB` `Docker`
+`Python` `FastAPI` `ChromaDB` `Docker` `RAGAS`
 
  [**Code**](https://github.com/faizjauzah/f1-rulebook-rag)
 
