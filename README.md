@@ -87,4 +87,4 @@ My personal site, built with React, TypeScript and Vite, and deployed through Gi
 
 - 📧 **Email:** mfaizjauzah24@gmail.com
 - 💼 **LinkedIn:** https://linkedin.com/in/faizjauzah
-- 🌐 **Portfolio:** https://faizjauzah.github.io/personal-portofolio/
+- 🌐 **Portfolio:** https://faizjauzah.github.io/portfolio/
